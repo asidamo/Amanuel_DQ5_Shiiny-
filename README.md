@@ -1,3 +1,3 @@
-# Amanuel_DQ5_Shiny-
+# Amanuel_DQ5_Shiny
 Shiny App Developed for Opioids Prescriptions and Overdose Deaths By States
 Shiny App Developed for Opioids Prescriptions and Overdose Deaths By States Here are lists of my Shiny Apps. app1 showing count of OPioids Prescribed and number of Opiods Prescribers by States. https://amanushiny.shinyapps.io/stateLevel/ app2 showing total counts and percentage shares of Opioids Drugs https://amanushiny.shinyapps.io/opioids_prescribed/ app3 shows relationship between overdose deaths and possible factors that would affect health outcomes. https://amanushiny.shinyapps.io/factors_affecting_overdose_deaths/
