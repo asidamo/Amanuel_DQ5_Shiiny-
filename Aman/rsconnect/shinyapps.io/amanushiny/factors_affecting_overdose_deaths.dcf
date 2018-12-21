@@ -1,0 +1,12 @@
+name: factors_affecting_overdose_deaths
+title: factors affecting Overdose deaths
+username:
+account: amanushiny
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 617648
+bundleId: 1772300
+url: https://amanushiny.shinyapps.io/factors_affecting_overdose_deaths/
+when: 1545186513.7168
+asMultiple: FALSE
+asStatic: FALSE
