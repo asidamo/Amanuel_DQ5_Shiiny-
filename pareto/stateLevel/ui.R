@@ -1,6 +1,4 @@
 
-# https://rstudio-pubs-static.s3.amazonaws.com/292287_894b2591571b4acdab51269e04f45125.html
-
 # Define UI
 shinyUI(
   dashboardPage(
